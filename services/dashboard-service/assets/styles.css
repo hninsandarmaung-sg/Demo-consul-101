@@ -17,10 +17,10 @@
 */
 
 body {
-  background: #c62a71;
-  background: -moz-linear-gradient(-45deg, #c62a71 0%, #771944 100%);
-  background: -webkit-linear-gradient(-45deg, #c62a71 0%,#771944 100%);
-  background: linear-gradient(135deg, #c62a71 0% ,#771944 100%);
+  background: #54c075;
+  background: -moz-linear-gradient(-45deg, #a9c62a 0%, #18db06 100%);
+  background: -webkit-linear-gradient(-45deg, #4ec62a 0%,#297719 100%);
+  background: linear-gradient(135deg, #2ac632 0% ,#197719 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c62a71', endColorstr='#771944',GradientType=1 );
 
   /* height: 100%; /* Firefox background fix */ */
